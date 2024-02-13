@@ -2,7 +2,7 @@
 const axios = require("axios");
 
 // Set up API Key and base URL
-const API_KEY = "553f31f414e447fca364833948dd15fc"; // Replace with your actual API key
+const API_KEY = "553f31f414e447fca364833948dd15fc";
 const BASE_URL = "https://api.weatherbit.io/v2.0"; // Base URL for the Weatherbit API
 
 // Create an Axios instance with the base URL
